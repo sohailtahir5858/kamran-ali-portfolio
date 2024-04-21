@@ -1873,7 +1873,7 @@ textarea:focus::placeholder {
   background-color: var(--theme-secondary);
   color: #fff;
 }
-.home-3 .bostami-section-title-wrap .section-title i {
+.home-3 .app-section-title-wrap .section-title i {
   color: var(--theme-secondary);
 }
 .dark-btn.dark-btn-2 {
@@ -1934,7 +1934,7 @@ textarea:focus::placeholder {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
   border-color: transparent;
 }
-.page-wrapper-2 .bostami-section-title-wrap .section-title i {
+.page-wrapper-2 .app-section-title-wrap .section-title i {
   color: var(--theme-secondary);
 }
 
@@ -1972,7 +1972,7 @@ textarea:focus::placeholder {
   padding-bottom: 0;
 }
 
-.bostami-page-title-wrap p {
+.app-page-title-wrap p {
   max-width: 632px;
 }
 
@@ -2023,16 +2023,16 @@ textarea:focus::placeholder {
   }
 }
 
-.bostami-page-content-wrap {
+.app-page-content-wrap {
   background-color: var(--common-white);
   border-radius: 20px;
 }
 
-.bostami-section-title-wrap .section-title {
+.app-section-title-wrap .section-title {
   margin-bottom: 0;
   font-weight: 500;
 }
-.bostami-section-title-wrap .section-title i {
+.app-section-title-wrap .section-title i {
   font-size: 30px;
   margin-right: 10px;
   margin-top: -5px;
@@ -2042,7 +2042,7 @@ textarea:focus::placeholder {
   only screen and (min-width: 992px) and (max-width: 1199px),
   md,
   (max-width: 767px) {
-  .bostami-section-title-wrap .section-title {
+  .app-section-title-wrap .section-title {
     font-size: 24px;
   }
 }
@@ -2104,7 +2104,7 @@ textarea:focus::placeholder {
     padding-right: 30px;
   }
 }
-.bostami-page-area .bostami-parsonal-info-contact .title {
+.bostami-page-area .app-parsonal-info-contact .title {
   font-weight: 500;
 }
 .bostami-page-area .section-title {
@@ -2123,14 +2123,14 @@ textarea:focus::placeholder {
     width: 40%;
   }
 }
-.bostami-page-area .bostami-parsonal-info-img {
+.bostami-page-area .app-parsonal-info-img {
   width: 100%;
   height: 400px;
   margin: 0;
   border-radius: 30px;
   margin-bottom: 80px;
 }
-.bostami-page-area .bostami-parsonal-info-contact {
+.bostami-page-area .app-parsonal-info-contact {
   background: transparent;
   padding: 20px 0px;
   margin-top: -13px;
@@ -2154,7 +2154,7 @@ textarea:focus::placeholder {
   padding-bottom: 80px;
 }
 
-.home-3 .bostami-header-area {
+.home-3 .app-header-area {
   margin-bottom: 240px;
   background-color: transparent;
 }
@@ -2162,11 +2162,11 @@ textarea:focus::placeholder {
   only screen and (min-width: 992px) and (max-width: 1199px),
   only screen and (min-width: 768px) and (max-width: 991px),
   (max-width: 767px) {
-  .home-3 .bostami-header-area {
+  .home-3 .app-header-area {
     margin-bottom: 40px;
   }
 }
-.home-3 .bostami-header-area .bostami-header-wrap {
+.home-3 .app-header-area .app-header-wrap {
   background-color: transparent;
 }
 
@@ -2175,18 +2175,18 @@ textarea:focus::placeholder {
   padding-bottom: 60px;
 }
 
-.bostami-header-wrap {
+.app-header-wrap {
   background: var(--light-white);
   padding: 20px;
   border-radius: 12px;
 }
 
-.bostami-header-menu-btn {
+.app-header-menu-btn {
   display: flex;
   align-items: center;
   justify-content: end;
 }
-.bostami-header-menu-btn .menu-btn {
+.app-header-menu-btn .menu-btn {
   position: relative;
   display: inline-flex;
   width: 26px;
@@ -2200,7 +2200,7 @@ textarea:focus::placeholder {
   transition: 1s;
   overflow: hidden;
 }
-.bostami-header-menu-btn .menu-btn:hover {
+.app-header-menu-btn .menu-btn:hover {
   background: linear-gradient(180deg, #1b74e4 0%, #1b74e4 100%);
 }
 
@@ -2381,7 +2381,7 @@ textarea:focus::placeholder {
 .main-style-2 {
   background-color: transparent;
 }
-.main-style-2 .bostami-main-menu-wrap {
+.main-style-2 .app-main-menu-wrap {
   width: unset;
   background: transparent;
   border-radius: 0px;
@@ -2390,13 +2390,13 @@ textarea:focus::placeholder {
   top: unset;
   display: inline-block;
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu {
   display: inline-block;
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul {
   display: inline-block;
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul li {
   display: inline-block;
   background-color: var(--light-white);
   border-radius: 8px;
@@ -2406,15 +2406,15 @@ textarea:focus::placeholder {
   transition: 0.3s;
   margin-bottom: 0;
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li:not(:first-child) {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul li:not(:first-child) {
   margin-left: 16px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li:not(:first-child) {
+  .main-style-2 .app-main-menu-wrap .bastami-main-menu ul li:not(:first-child) {
     margin-left: 5px;
   }
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a {
   background: #fff;
   border-radius: 8px;
   padding: 0px 19px;
@@ -2424,28 +2424,28 @@ textarea:focus::placeholder {
   align-items: center;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a {
+  .main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a {
     padding: 0px 10px;
   }
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a:hover {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a:hover {
   background: rgb(250, 82, 82);
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a span {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a span {
   display: inline-block;
   margin-bottom: 0;
   margin-right: 8px;
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a span i {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a span i {
   font-size: 20px;
 }
-.main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li:is(.active) a {
+.main-style-2 .app-main-menu-wrap .bastami-main-menu ul li:is(.active) a {
   background: rgb(250, 82, 82);
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 
-.bostami-header-logo {
+.app-header-logo {
   flex: 0 0 auto;
 }
 
@@ -2460,16 +2460,16 @@ textarea:focus::placeholder {
   }
 }
 
-.page-wrapper.page-wrapper-2 .bostami-header-logo .site-logo img {
+.page-wrapper.page-wrapper-2 .app-header-logo .site-logo img {
   width: 150px;
 }
 @media (max-width: 767px) {
-  .page-wrapper.page-wrapper-2 .bostami-header-logo .site-logo img {
+  .page-wrapper.page-wrapper-2 .app-header-logo .site-logo img {
     width: 110px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .page-wrapper.page-wrapper-2 .bostami-header-logo .site-logo img {
+  .page-wrapper.page-wrapper-2 .app-header-logo .site-logo img {
     width: 150px;
   }
 }
@@ -2485,13 +2485,13 @@ textarea:focus::placeholder {
     margin-bottom: 0;
   }
 }
-.home-3 .bostami-main-menu-wrap {
+.home-3 .app-main-menu-wrap {
   width: unset;
   position: unset;
   display: inline-block;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .home-3 .bostami-main-menu-wrap {
+  .home-3 .app-main-menu-wrap {
     display: none;
   }
 }
@@ -2510,11 +2510,11 @@ textarea:focus::placeholder {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 
-.inner-page .bostami-header-wrap {
+.inner-page .app-header-wrap {
   padding: 20px 0;
 }
 
-.home-3 .bostami-header-menu-btn .menu-btn {
+.home-3 .app-header-menu-btn .menu-btn {
   width: 40px;
   height: 40px;
 }
@@ -2522,24 +2522,24 @@ textarea:focus::placeholder {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 
-.home-1 .bostami-header-area {
+.home-1 .app-header-area {
   margin-bottom: 205px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px),
   only screen and (min-width: 992px) and (max-width: 1199px),
   only screen and (min-width: 768px) and (max-width: 991px),
   (max-width: 767px) {
-  .home-1 .bostami-header-area {
+  .home-1 .app-header-area {
     margin-bottom: 50px;
   }
 }
-.home-1 .bostami-header-wrap {
+.home-1 .app-header-wrap {
   margin-left: -112px;
   margin-right: -70px;
   background-color: transparent;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .home-1 .bostami-header-wrap {
+  .home-1 .app-header-wrap {
     margin-left: -50px;
     margin-right: -40px;
   }
@@ -2548,23 +2548,23 @@ textarea:focus::placeholder {
   only screen and (min-width: 992px) and (max-width: 1199px),
   only screen and (min-width: 768px) and (max-width: 991px),
   (max-width: 767px) {
-  .home-1 .bostami-header-wrap {
+  .home-1 .app-header-wrap {
     margin-left: 0px;
     margin-right: 0px;
   }
 }
-.home-1 .bostami-header-menu-btn .menu-btn {
+.home-1 .app-header-menu-btn .menu-btn {
   width: 40px;
   height: 40px;
 }
 @media (min-width: 1800px),
   only screen and (min-width: 1600px) and (max-width: 1799px),
   only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .home-1 .bostami-header-menu-btn .menu-btn {
+  .home-1 .app-header-menu-btn .menu-btn {
     display: none;
   }
 }
-.home-1 .bostami-header-menu-btn .menu-btn {
+.home-1 .app-header-menu-btn .menu-btn {
   background: #1b74e4;
 }
 .home-1 .mobile-menu-wrap .mobile-menu .mean-bar .mean-nav ul li:is(.active) a {
@@ -2586,7 +2586,7 @@ textarea:focus::placeholder {
   fill: #1b74e4;
 }
 
-.bostami-parsonal-info-area {
+.app-parsonal-info-area {
   width: 400px;
   border-radius: 20px;
   background-color: var(--common-white);
@@ -2597,13 +2597,13 @@ textarea:focus::placeholder {
   top: 100px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .bostami-parsonal-info-area {
+  .app-parsonal-info-area {
     width: 340px;
     margin-left: -40px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .bostami-parsonal-info-area {
+  .app-parsonal-info-area {
     width: 100%;
     margin-left: 0px;
     padding: 30px 15px;
@@ -2612,7 +2612,7 @@ textarea:focus::placeholder {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px),
   only screen and (min-width: 768px) and (max-width: 991px) {
-  .bostami-parsonal-info-area {
+  .app-parsonal-info-area {
     width: 100%;
     margin-left: 0px;
     margin-bottom: 30px;
@@ -2620,7 +2620,7 @@ textarea:focus::placeholder {
   }
 }
 @media (max-width: 767px) {
-  .bostami-parsonal-info-area {
+  .app-parsonal-info-area {
     width: 100%;
     margin-left: 0px;
     margin-bottom: 30px;
@@ -2628,11 +2628,11 @@ textarea:focus::placeholder {
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .bostami-parsonal-info-area {
+  .app-parsonal-info-area {
     padding: 40px 30px;
   }
 }
-.bostami-parsonal-info-img {
+.app-parsonal-info-img {
   width: 240px;
   height: 240px;
   border-radius: 20px;
@@ -2642,7 +2642,7 @@ textarea:focus::placeholder {
   margin-top: -180px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .bostami-parsonal-info-img {
+  .app-parsonal-info-img {
     width: 210px;
     height: 210px;
     margin-top: 0px;
@@ -2651,16 +2651,16 @@ textarea:focus::placeholder {
 @media only screen and (min-width: 992px) and (max-width: 1199px),
   only screen and (min-width: 768px) and (max-width: 991px),
   (max-width: 767px) {
-  .bostami-parsonal-info-img {
+  .app-parsonal-info-img {
     margin-top: 0px;
   }
 }
-.bostami-parsonal-info-img img {
+.app-parsonal-info-img img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-.bostami-parsonal-info-name {
+.app-parsonal-info-name {
   font-size: 26px;
   text-transform: capitalize;
   font-weight: 500;
@@ -2675,16 +2675,16 @@ textarea:focus::placeholder {
   color: #fff;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .bostami-parsonal-info-name {
+  .app-parsonal-info-name {
     font-size: 20px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .bostami-parsonal-info-name {
+  .app-parsonal-info-name {
     font-size: 22px;
   }
 }
-.bostami-parsonal-info-bio {
+.app-parsonal-info-bio {
   font-size: 14px;
   display: inline-block;
   font-weight: 500;
@@ -2698,15 +2698,15 @@ textarea:focus::placeholder {
 @media only screen and (min-width: 1200px) and (max-width: 1399px),
   only screen and (min-width: 768px) and (max-width: 991px),
   (max-width: 767px) {
-  .bostami-parsonal-info-bio {
+  .app-parsonal-info-bio {
     font-size: 14px;
   }
 }
-.bostami-parsonal-info-social-link li {
+.app-parsonal-info-social-link li {
   display: inline-block;
   margin: 0 4px;
 }
-.bostami-parsonal-info-social-link li a {
+.app-parsonal-info-social-link li a {
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -2716,70 +2716,70 @@ textarea:focus::placeholder {
   line-height: 40px;
   font-size: 18px;
 }
-.bostami-parsonal-info-social-link .facebook {
+.app-parsonal-info-social-link .facebook {
   color: #1773ea;
 }
-.bostami-parsonal-info-social-link .facebook:hover {
+.app-parsonal-info-social-link .facebook:hover {
   background: #1773ea;
   color: #fff;
 }
-.bostami-parsonal-info-social-link .twitter {
+.app-parsonal-info-social-link .twitter {
   color: #1c9cea;
 }
-.bostami-parsonal-info-social-link .twitter:hover {
+.app-parsonal-info-social-link .twitter:hover {
   background: #1773ea;
   color: #fff;
 }
-.bostami-parsonal-info-social-link .instagram {
+.app-parsonal-info-social-link .instagram {
   color: #e12a72;
 }
-.bostami-parsonal-info-social-link .instagram:hover {
+.app-parsonal-info-social-link .instagram:hover {
   background: #e12a72;
   color: #fff;
 }
-.bostami-parsonal-info-social-link .linkedin {
+.app-parsonal-info-social-link .linkedin {
   color: #144679;
 }
-.bostami-parsonal-info-social-link .linkedin:hover {
+.app-parsonal-info-social-link .linkedin:hover {
   background: #144679;
   color: #fff;
 }
 
-.bostami-parsonal-info-social-link li a:hover svg * {
+.app-parsonal-info-social-link li a:hover svg * {
   fill: var(--common-white);
 }
-.bostami-parsonal-info-contact {
+.app-parsonal-info-contact {
   background-color: var(--light-white);
   border-radius: 16px;
   text-align: left;
   padding: 20px 30px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .bostami-parsonal-info-contact {
+  .app-parsonal-info-contact {
     padding: 20px 15px;
   }
 }
 @media (max-width: 767px) {
-  .bostami-parsonal-info-contact {
+  .app-parsonal-info-contact {
     padding: 20px 15px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .bostami-parsonal-info-contact {
+  .app-parsonal-info-contact {
     padding: 20px 30px;
   }
 }
-.bostami-parsonal-info-contact-item {
+.app-parsonal-info-contact-item {
   display: flex;
   align-items: center;
   gap: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
-.bostami-parsonal-info-contact-item:not(:first-child) {
+.app-parsonal-info-contact-item:not(:first-child) {
   border-top: 1px solid #e3e3e3;
 }
-.bostami-parsonal-info-contact-item .icon {
+.app-parsonal-info-contact-item .icon {
   flex: 0 0 auto;
   display: inline-block;
   width: 44px;
@@ -2792,37 +2792,37 @@ textarea:focus::placeholder {
   transition: 0.3s;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .bostami-parsonal-info-contact-item .icon {
+  .app-parsonal-info-contact-item .icon {
     width: 35px;
     height: 35px;
     line-height: 35px;
   }
 }
-.bostami-parsonal-info-contact-item .icon svg * {
+.app-parsonal-info-contact-item .icon svg * {
   transition: 0.3s;
 }
-.bostami-parsonal-info-contact-item i {
+.app-parsonal-info-contact-item i {
   font-size: 22px;
 }
-.bostami-parsonal-info-contact-item.phone i {
+.app-parsonal-info-contact-item.phone i {
   color: #e93b81;
 }
-.bostami-parsonal-info-contact-item.email i {
+.app-parsonal-info-contact-item.email i {
   color: #6ab5b9;
 }
-.bostami-parsonal-info-contact-item.location i {
+.app-parsonal-info-contact-item.location i {
   color: #fd7590;
 }
-.bostami-parsonal-info-contact-item.calendar i {
+.app-parsonal-info-contact-item.calendar i {
   color: #c17ceb;
 }
-.bostami-parsonal-info-contact-item .icon:hover svg * {
+.app-parsonal-info-contact-item .icon:hover svg * {
   fill: var(--common-white);
 }
-.bostami-parsonal-info-contact-item .text {
+.app-parsonal-info-contact-item .text {
   display: inline-block;
 }
-.bostami-parsonal-info-contact-item .text span {
+.app-parsonal-info-contact-item .text span {
   display: block;
   font-size: 12px;
   line-height: 18px;
@@ -2830,7 +2830,7 @@ textarea:focus::placeholder {
   font-weight: 400;
   margin-bottom: 3px;
 }
-.bostami-parsonal-info-contact-item .text p {
+.app-parsonal-info-contact-item .text p {
   font-size: 14px !important;
   line-height: 24px;
   font-weight: 400;
@@ -2839,23 +2839,23 @@ textarea:focus::placeholder {
   margin-bottom: 0;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .bostami-parsonal-info-contact-item .text p {
+  .app-parsonal-info-contact-item .text p {
     font-size: 14px;
   }
 }
 
-.bostami-parsonal-info-area.bostami-parsonal-info-2-area {
+.app-parsonal-info-area.bostami-parsonal-info-2-area {
   background-color: transparent;
   width: unset;
   margin-left: 0;
   position: unset;
 }
 @media (min-width: 1920px) {
-  .bostami-parsonal-info-area.bostami-parsonal-info-2-area {
+  .app-parsonal-info-area.bostami-parsonal-info-2-area {
     margin-top: 50px;
   }
 }
-.bostami-parsonal-info-area.bostami-parsonal-info-2-area .bostami-parsonal-info-img {
+.app-parsonal-info-area.bostami-parsonal-info-2-area .app-parsonal-info-img {
   width: 280px;
   height: 280px;
   border-radius: 50%;
@@ -2865,58 +2865,58 @@ textarea:focus::placeholder {
   margin-top: 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .bostami-parsonal-info-area.bostami-parsonal-info-2-area .bostami-parsonal-info-img {
+  .app-parsonal-info-area.bostami-parsonal-info-2-area .app-parsonal-info-img {
     width: 240px;
     height: 240px;
   }
 }
-.bostami-parsonal-info-area.bostami-parsonal-info-2-area .bostami-parsonal-info-bio {
+.app-parsonal-info-area.bostami-parsonal-info-2-area .app-parsonal-info-bio {
   background: transparent;
   color: #7b7b7b;
 }
-.bostami-parsonal-info-area.bostami-parsonal-info-2-area .bostami-parsonal-info-social-link li a:hover {
+.app-parsonal-info-area.bostami-parsonal-info-2-area .app-parsonal-info-social-link li a:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 
-.bostami-parsonal-info-area.about-2-page {
+.app-parsonal-info-area.about-2-page {
   width: 100%;
   margin-left: 0;
   background: transparent;
   position: unset;
   padding: 0;
 }
-.bostami-parsonal-info-area.about-2-page .bostami-page-title-wrap {
+.app-parsonal-info-area.about-2-page .app-page-title-wrap {
   text-align: left;
 }
-.bostami-parsonal-info-area.about-2-page .bostami-parsonal-info-img {
+.app-parsonal-info-area.about-2-page .app-parsonal-info-img {
   width: 100%;
   height: 400px;
   margin-bottom: 0;
   margin-top: 0;
 }
 
-.page-wrapper-2 .bostami-parsonal-info-contact-item .icon:hover {
+.page-wrapper-2 .app-parsonal-info-contact-item .icon:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 
-.home-3 .bostami-parsonal-info-area {
+.home-3 .app-parsonal-info-area {
   width: 100%;
   margin-left: 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .home-3 .bostami-parsonal-info-contact {
+  .home-3 .app-parsonal-info-contact {
     padding: 20px 10px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .home-3 .bostami-parsonal-info-contact-item .text p {
+  .home-3 .app-parsonal-info-contact-item .text p {
     font-size: 14px;
   }
 }
-.home-3 .bostami-parsonal-info-social-link li a:hover {
+.home-3 .app-parsonal-info-social-link li a:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
-.home-3 .bostami-parsonal-info-contact-item .icon:hover {
+.home-3 .app-parsonal-info-contact-item .icon:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 
@@ -2925,12 +2925,12 @@ textarea:focus::placeholder {
   padding-bottom: 70px;
   background-color: var(--light-white-2);
 }
-.bostami-client-slider-logo {
+.app-client-slider-logo {
   padding: 0px 15px;
   height: 62px;
 }
 
-.bostami-main-menu-wrap {
+.app-main-menu-wrap {
   width: 144px;
   background: white;
   border-radius: 16px;
@@ -2939,17 +2939,17 @@ textarea:focus::placeholder {
   top: -45px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-  .bostami-main-menu-wrap {
+  .app-main-menu-wrap {
     width: 120px;
     padding: 18px;
   }
 }
 
-.bostami-client-slider .swiper-slide {
+.app-client-slider .swiper-slide {
   text-align: center !important;
 }
 
-.bostami-what-do-item {
+.app-what-do-item {
   border-radius: 12px;
   display: flex;
   gap: 20px;
@@ -2957,32 +2957,32 @@ textarea:focus::placeholder {
   padding-bottom: 15px;
   margin-bottom: 30px;
 }
-.bostami-what-do-item i {
+.app-what-do-item i {
   font-size: 35px;
 }
-.bostami-what-do-item.bg-prink i {
+.app-what-do-item.bg-prink i {
   color: #d566ff;
 }
-.bostami-what-do-item.bg-catkrill i {
+.app-what-do-item.bg-catkrill i {
   color: #dda10c;
 }
-.bostami-what-do-item.bg-catkrill i {
+.app-what-do-item.bg-catkrill i {
   color: #ff6080;
 }
-.bostami-what-do-item.bg-prink.bg-blue i {
+.app-what-do-item.bg-prink.bg-blue i {
   color: #269fff;
 }
 @media (max-width: 767px) {
-  .bostami-what-do-item {
+  .app-what-do-item {
     flex-wrap: wrap;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .bostami-what-do-item {
+  .app-what-do-item {
     flex-wrap: nowrap;
   }
 }
-.bostami-what-do-item .text .title {
+.app-what-do-item .text .title {
   margin-bottom: 10px;
   font-size: 20px;
   font-weight: 500;
@@ -2990,21 +2990,21 @@ textarea:focus::placeholder {
 @media only screen and (min-width: 1200px) and (max-width: 1399px),
   lg,
   only screen and (min-width: 768px) and (max-width: 991px) {
-  .bostami-what-do-item .text .title {
+  .app-what-do-item .text .title {
     font-size: 22px;
   }
 }
 @media (max-width: 767px) {
-  .bostami-what-do-item .text .title {
+  .app-what-do-item .text .title {
     font-size: 22px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .bostami-what-do-item .text .title {
+  .app-what-do-item .text .title {
     font-size: 24px;
   }
 }
-.bostami-what-do-item .text p {
+.app-what-do-item .text p {
   margin-bottom: 0;
   line-height: 30px;
 }
@@ -3015,50 +3015,50 @@ textarea:focus::placeholder {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .page-wrapper-2 .bostami-what-do-item {
+  .page-wrapper-2 .app-what-do-item {
     flex-wrap: wrap;
   }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .home-3 .bostami-what-do-item {
+  .home-3 .app-what-do-item {
     flex-wrap: wrap;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .home-3 .bostami-what-do-item .text .title {
+  .home-3 .app-what-do-item .text .title {
     font-size: 20px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
-  .bostami-card-wrap {
+  .app-card-wrap {
     margin-bottom: 50px;
   }
 }
 
-.bostami-card-item {
+.app-card-item {
   padding: 20px;
   border-radius: 12px;
   padding-top: 25px;
 }
-.bostami-card-item .card-subtitle {
+.app-card-item .card-subtitle {
   display: block;
   font-size: 14px;
   font-weight: 400;
   line-height: 1;
   margin-bottom: 9px;
 }
-.bostami-card-item .card-title {
+.app-card-item .card-title {
   font-size: 18px;
   font-weight: 400;
   color: var(--heading-black);
   margin-bottom: 4px;
 }
-.bostami-card-item .card-title span {
+.app-card-item .card-title span {
   color: var(--body-text);
 }
-.bostami-card-item .card-text {
+.app-card-item .card-text {
   font-size: 16px;
   font-weight: 400;
   margin-bottom: 0;
@@ -4488,17 +4488,17 @@ textarea:focus::placeholder {
   overflow-y: scroll;
 }
 
-.dark-theme .page-wrapper .bostami-header-wrap,
-.dark-theme .page-wrapper .bostami-parsonal-info-area,
-.dark-theme .page-wrapper .bostami-main-menu-wrap {
+.dark-theme .page-wrapper .app-header-wrap,
+.dark-theme .page-wrapper .app-parsonal-info-area,
+.dark-theme .page-wrapper .app-main-menu-wrap {
   background-color: #000;
 }
 .dark-theme .page-wrapper .mobile-menu-wrap .mobile_menu .mean-bar,
 .dark-theme .page-wrapper .mobile-menu-wrap .mobile_menu .mean-bar .mean-nav,
-.dark-theme .page-wrapper .bostami-parsonal-info-contact,
-.dark-theme .page-wrapper .bostami-parsonal-info-bio,
-.dark-theme .page-wrapper .bostami-parsonal-info-social-link li a,
-.dark-theme .page-wrapper .main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a {
+.dark-theme .page-wrapper .app-parsonal-info-contact,
+.dark-theme .page-wrapper .app-parsonal-info-bio,
+.dark-theme .page-wrapper .app-parsonal-info-social-link li a,
+.dark-theme .page-wrapper .main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a {
   background-color: #1d1d1d;
 }
 .dark-theme .page-wrapper .bg-light-white-2,
@@ -4525,13 +4525,13 @@ textarea:focus::placeholder {
 .dark-theme .page-wrapper .bastami-main-menu ul li:hover {
   background-color: #1b74e4;
 }
-.dark-theme .page-wrapper .bostami-what-do-item,
-.dark-theme .page-wrapper .bostami-card-item,
+.dark-theme .page-wrapper .app-what-do-item,
+.dark-theme .page-wrapper .app-card-item,
 .dark-theme .page-wrapper .form-btn,
 .dark-theme .page-wrapper .mobile-menu-wrap .mobile_menu .mean-bar .mean-nav ul li a {
   background-color: transparent;
 }
-.dark-theme .page-wrapper .bostami-parsonal-info-social-link li a:hover {
+.dark-theme .page-wrapper .app-parsonal-info-social-link li a:hover {
   background-color: #1b74e4;
 }
 .dark-theme .page-wrapper .btn-1:hover {
@@ -4539,11 +4539,11 @@ textarea:focus::placeholder {
 }
 .dark-theme .page-wrapper .mobile-menu-wrap .mobile_menu .mean-bar .mean-nav ul li a,
 .dark-theme .page-wrapper .btn-1,
-.dark-theme .page-wrapper .bostami-card-item .card-title,
+.dark-theme .page-wrapper .app-card-item .card-title,
 .dark-theme .page-wrapper .form-btn {
   color: #fff;
 }
-.dark-theme .page-wrapper .bostami-parsonal-info-bio,
+.dark-theme .page-wrapper .app-parsonal-info-bio,
 .dark-theme .page-wrapper .bostami-contact-item .text span {
   color: #a6a6a6;
 }
@@ -4571,35 +4571,35 @@ textarea:focus::placeholder {
 .dark-theme .page-wrapper .mobile-menu-wrap .mobile_menu .mean-bar .mean-nav ul li:is(.active) a span img {
   filter: saturate(25);
 }
-.dark-theme .page-wrapper .bostami-what-do-item,
-.dark-theme .page-wrapper .bostami-card-item,
+.dark-theme .page-wrapper .app-what-do-item,
+.dark-theme .page-wrapper .app-card-item,
 .dark-theme .page-wrapper .blog-slider-single,
 .dark-theme .page-wrapper .fillter-item {
   border: 1px solid #212425;
 }
-.dark-theme .page-wrapper-2 .main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a span img {
+.dark-theme .page-wrapper-2 .main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a span img {
   filter: brightness(5);
 }
 
 .dark-theme .page-wrapper-2 .bostami-page-area .bostami-page-wrap {
   background: #111;
 }
-.dark-theme .page-wrapper-2 .main-style-2 .bostami-main-menu-wrap .bastami-main-menu ul li a span svg * {
+.dark-theme .page-wrapper-2 .main-style-2 .app-main-menu-wrap .bastami-main-menu ul li a span svg * {
   fill: white;
 }
-.dark-theme .page-wrapper-2 .bostami-header-wrap.main-style-2 {
+.dark-theme .page-wrapper-2 .app-header-wrap.main-style-2 {
   background-color: transparent;
 }
-.dark-theme .page-wrapper-2 .bostami-main-menu-wrap {
+.dark-theme .page-wrapper-2 .app-main-menu-wrap {
   background: transparent;
 }
-.dark-theme .page-wrapper-2 .bostami-parsonal-info-area.bostami-parsonal-info-2-area {
+.dark-theme .page-wrapper-2 .app-parsonal-info-area.bostami-parsonal-info-2-area {
   background: transparent;
 }
-.dark-theme .page-wrapper-2 .bostami-page-area .bostami-parsonal-info-contact {
+.dark-theme .page-wrapper-2 .bostami-page-area .app-parsonal-info-contact {
   background-color: transparent;
 }
-.dark-theme .page-wrapper-2 .bostami-parsonal-info-contact-item .icon:hover {
+.dark-theme .page-wrapper-2 .app-parsonal-info-contact-item .icon:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 .dark-theme .home-3 .bastami-main-menu ul li:is(.active) a span svg * {
@@ -4608,10 +4608,10 @@ textarea:focus::placeholder {
 .dark-theme .home-3 .bastami-main-menu ul li:hover a span svg * {
   fill: white;
 }
-.dark-theme .home-3 .bostami-header-wrap {
+.dark-theme .home-3 .app-header-wrap {
   background: transparent !important;
 }
-.dark-theme .home-3 .bostami-parsonal-info-social-link li a:hover {
+.dark-theme .home-3 .app-parsonal-info-social-link li a:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 .dark-theme .home-3 .bastami-main-menu ul li:is(.active) {
@@ -4620,10 +4620,10 @@ textarea:focus::placeholder {
 .dark-theme .home-3 .bastami-main-menu ul li:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
-.dark-theme .home-3 .bostami-parsonal-info-contact-item .icon:hover {
+.dark-theme .home-3 .app-parsonal-info-contact-item .icon:hover {
   background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
-.dark-theme .home-1 .bostami-header-wrap {
+.dark-theme .home-1 .app-header-wrap {
   background: transparent;
 }
 .dark-theme .home-1 .bastami-main-menu ul li.active a span svg * {
@@ -4676,13 +4676,13 @@ textarea:focus::placeholder {
 }
 
 /*# sourceMappingURL=main.css.map */
-.dark-theme .bostami-parsonal-info-contact-item:not(:first-child) {
+.dark-theme .app-parsonal-info-contact-item:not(:first-child) {
   border-color: #333;
 }
 .dark-theme .contact-form .input-box {
   border-bottom-color: #333;
 }
-.dark-theme .bostami-parsonal-info-btn .btn-2 {
+.dark-theme .app-parsonal-info-btn .btn-2 {
   color: #fff;
 }
 
